@@ -27,3 +27,4 @@ A centralized website/forum/portal for all things related to Academic Council at
 ### Additional Ideas (to be revised/relinquished)
 - Connect to Schoology/Powerschool so that more personalized information can be displayed 
 - Connect with honor societies
+- Tutoring forum, built-in direct messaging system
