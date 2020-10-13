@@ -24,6 +24,6 @@ A centralized website/forum/portal for all things related to Academic Council at
 ### Contact
 - Allows for submission of comments/suggestions
 
-## Additional Ideas (to be revised/relinquished)
+### Additional Ideas (to be revised/relinquished)
 - Connect to Schoology/Powerschool so that more personalized information can be displayed 
 - Connect with honor societies
